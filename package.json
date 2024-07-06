@@ -9,8 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@solana/actions": "^1.1.1",
-    "@solana/web3.js": "^1.94.0",
+    "@solana/actions": "^1.0.2",
+    "@solana/spl-token": "^0.4.7",
+    "@solana/spl-token-metadata": "^0.1.4",
+    "@solana/web3.js": "^1.93.2",
+    "dotenv": "^16.4.5",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18"
